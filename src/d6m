@@ -1,0 +1,17 @@
+{
+"USER001":{
+"name":"USER 001",
+"vc":21,
+"isVip":true
+},
+"USER002":{
+"name":"USER 002",
+"vc":0,
+"isVip":false
+},
+"USER003":{
+"name":"USER 003",
+"vc":20,
+"isVip":true
+}
+}
